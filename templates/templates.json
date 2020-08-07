@@ -11,7 +11,7 @@
         "append_crlf":"0"
     },
     {
-        "base":"\/project\/",
+        "base":"\/project",
         "enabled":"1",
         "source":"source/source2019123113522bd951d93",
         "destination":"\/source\/controllers\/htmldb.js",

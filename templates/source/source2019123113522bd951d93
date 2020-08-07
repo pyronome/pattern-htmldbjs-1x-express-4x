@@ -1,0 +1,5 @@
+var router = require("express").Router();
+
+{{EXPRESSJS_ROUTES}}
+
+module.exports = router;

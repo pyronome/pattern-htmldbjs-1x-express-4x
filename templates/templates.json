@@ -1,0 +1,46 @@
+[
+    {
+        "base":"\/project\/model_list\/model\/name",
+        "enabled":"1",
+        "source":"source/source20191231133526f2e6421",
+        "destination":"\/source\/controllers\/htmldb\/{{$ __value__\/__lowercase_text__}}.js",
+        "temporary":"0",
+        "append":"1",
+        "glue":"",
+        "prepend_crlf":"0",
+        "append_crlf":"0"
+    },
+    {
+        "base":"\/project\/",
+        "enabled":"1",
+        "source":"source/source2019123113522bd951d93",
+        "destination":"\/source\/controllers\/htmldb.js",
+        "temporary":"0",
+        "append":"1",
+        "glue":"",
+        "prepend_crlf":"0",
+        "append_crlf":"0"
+    },
+    {
+        "base":"\/project",
+        "enabled":"1",
+        "source":"",
+        "destination":"EXPRESSJS_ROUTES",
+        "temporary":"1",
+        "append":"1",
+        "glue":"",
+        "prepend_crlf":"0",
+        "append_crlf":"1"
+    },
+    {
+        "base":"\/project\/model_list\/model\/name",
+        "enabled":"1",
+        "source":"source/source2019123113744e07370cd",
+        "destination":"EXPRESSJS_ROUTES",
+        "temporary":"1",
+        "append":"1",
+        "glue":"",
+        "prepend_crlf":"0",
+        "append_crlf":"1"
+    }
+]

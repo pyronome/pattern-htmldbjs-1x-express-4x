@@ -1,0 +1,16 @@
+var router = require("express").Router();
+var {{$ __value__/__lowercase_text__}} = require("../../models/{{$ __value__}}.js");
+
+router.get("/read", function(request, response) {
+    {{$ __value__/__lowercase_text__}}.read(request, response);
+});
+
+router.post("/validate", function(request, response) {
+    {{$ __value__/__lowercase_text__}}.validate(request, response);
+});
+
+router.post("/write", function(request, response) {
+    {{$ __value__/__lowercase_text__}}.write(request, response);
+});
+
+module.exports = router;
